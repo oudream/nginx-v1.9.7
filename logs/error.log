@@ -1,0 +1,1 @@
+2018/03/27 15:05:42 [error] 53284#53356: *1 CreateFile() "C:\ddd\web\limi\assets/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8821", referrer: "http://localhost:8821/"
